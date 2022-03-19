@@ -18,3 +18,7 @@ I want to be - сreative Senior Front-end Developer with  experience leveraging 
 * JavaScript
 * React
 * Git
+
+#### Education:
+* 2001 - Minsk State College of Electronics.
+* 2007 - Minsk Innovation University.
