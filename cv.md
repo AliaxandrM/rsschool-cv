@@ -29,3 +29,6 @@ I want to be - сreative Senior Front-end Developer with  experience leveraging 
     * 2019 - Codecademy: 
         - HTML
         - CSS
+
+
+#### English level: PreIntermideate
