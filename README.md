@@ -1,1 +1,1 @@
-[https://maliaxandr.github.io/rsschool-2019Q1-cv/cv](https://maliaxandr.github.io/rsschool-2019Q1-cv/cv)  cv.md  
+[https://aliaxandrm.github.io/rsschool-cv/cv](https://aliaxandrm.github.io/rsschool-cv/cv)  cv.md  
